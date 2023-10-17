@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Needit Application">a4674cb22ff53110f3507f572799b609</application>
+        <filter/>
+        <name>NeedIt Applications</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_58872_needit.needit_application_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 21:41:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ac674cb22ff53110f3507f572799b60b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Applications</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_module_ac674cb22ff53110f3507f572799b60b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 21:41:58</sys_updated_on>
+        <table>x_58872_needit_x_needit_app</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>de56c810db7337400b9d21c405961973</instance_id>
+        <instance_name>dev93089</instance_name>
+        <name>sys_ui_module_ac674cb22ff53110f3507f572799b60b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Needit Application">a4674cb22ff53110f3507f572799b609</application>
+        <filter/>
+        <name>NeedIt Applications</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_58872_needit.needit_application_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 21:41:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ac674cb22ff53110f3507f572799b60b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Applications</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_module_ac674cb22ff53110f3507f572799b60b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 21:41:58</sys_updated_on>
+        <table>x_58872_needit_x_needit_app</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>]]></payload>
+        <payload_hash>-1748808723</payload_hash>
+        <record_name>NeedIt Applications</record_name>
+        <reverted_from/>
+        <source>8f14aa3f2f313110f3507f572799b660</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 11:41:29</sys_created_on>
+        <sys_id>27442a7f2f313110f3507f572799b684</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b3d70e0e20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 11:41:29</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ef442a7fbb313110da74d58ccd26c483</update_guid>
+        <update_guid_history>ef442a7fbb313110da74d58ccd26c483:0,55c36afbef3131103e8d67369747b587:-947977437,51c36afb2c313110eafb20fcdce4fe80:0,5c2475d32af9b11047884b64321a716f:0,50a2f153e4f9b1106f794881b9bf7648:-947977437,90a2f15354f9b11042df4b4adb99f041:0,205f215fcab9b110356eb7d9df5de5d8:0,c41fe11f19b9b110b0cf2c9101767274:-947977437,0c1fe11f5db9b1102f152d86e1931760:0,824bb41f0df5b110ff68899702c04e16:0,9ab7301b94f5b110a37a36eab048697b:-947977437,9eb7301beff5b110dc7a063ef9320774:0,6c17b0d7d6f5b11043f3db35c5b146e8:0,075d285f87b5b11048ef5f22620332b9:-947977437,835d285f1fb5b1100f67e04942afdfb2:0,24674cb24ff53110afe9d1047b01cc0d:-1917893033</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 11:47:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>05a299adcead43d0b1b6eb63feaa5390</sys_id>
+        <sys_metadata>ac674cb22ff53110f3507f572799b60b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Applications</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_ac674cb22ff53110f3507f572799b60b</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_ac674cb22ff53110f3507f572799b60b">27442a7f2f313110f3507f572799b684</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 11:47:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
